@@ -1,0 +1,15 @@
+========= COMPUTE-SANITIZER
+
+=============================================
+ Model: Variational AutoEncoder (VAE)
+---------------------------------------------
+ Validation: OFF
+ Number of images: 1
+ Input binary path: ./data/input_fp32.bin
+ Model parameter path: /opt/apss24/project/param_fp32.bin
+ Answer binary path: /opt/apss24/project/answer_fp32.bin
+ Output binary path: ./data/output.bin
+=============================================
+
+Initializing input and parameters...Done!
+Generating images...
